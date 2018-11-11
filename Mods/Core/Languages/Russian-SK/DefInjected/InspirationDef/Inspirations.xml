@@ -40,7 +40,7 @@
 	<InspiredArt.label>вдохновение</InspiredArt.label>
 	<InspiredArt.beginLetterLabel>Воодушевление: искусство</InspiredArt.beginLetterLabel>
 	<InspiredArt.beginLetter>К {0} пришло вдохновение! Уровень мастерства, с которым будет завершён любой предмет искусства, возрастёт на 3.\n\nВдохновение уйдёт через 8 дней или с первой завершённой работой.</InspiredArt.beginLetter>
-	<InspiredArt.endMessage>{0} теряет входновение.</InspiredArt.endMessage>
+	<InspiredArt.endMessage>{0} теряет вдохновение.</InspiredArt.endMessage>
 	<InspiredArt.baseInspectLine>Воодушевление: искусство</InspiredArt.baseInspectLine>
 
 </LanguageData>

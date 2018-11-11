@@ -3,7 +3,7 @@
   <TAcfgmenulabel>Конфигурация технического прогресса</TAcfgmenulabel>
 	
   <newTechLevelLetterTitle>Новый технологический уровень</newTechLevelLetterTitle>
-  <newTechLevelLetterContents>Поздравляю, исследователь только что закончил исследовательский проект, который сделал вас {0} умнее. Новый технический уровень</newTechLevelLetterContents>
+  <newTechLevelLetterContents>Поздравляем! Исследователь только что закончил исследовательский проект, {0} стала умнее. Новый технический уровень - </newTechLevelLetterContents>
   
   <ConfigEditTechlevelChange>Технологический прогресс влияет на вашу игру, ваш уровень технологий был изменен на</ConfigEditTechlevelChange>
   
