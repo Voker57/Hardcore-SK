@@ -122,7 +122,7 @@
 		<uiIconPath>Things/Pawn/Humanlike/UI/IconHuman</uiIconPath>
 		<statBases>
 			<MarketValue>10</MarketValue>
-			<MoveSpeed>5.25</MoveSpeed>
+			<MoveSpeed>10.25</MoveSpeed>
 			<Flammability>1.0</Flammability>
 			<ComfyTemperatureMin>-30</ComfyTemperatureMin>
 			<ComfyTemperatureMax>45</ComfyTemperatureMax>
@@ -130,7 +130,7 @@
 		</statBases>
 		<race>
 			<body>AIRobot</body>
-			<baseBodySize>0.65</baseBodySize>
+			<baseBodySize>5.65</baseBodySize>
 			<baseHungerRate>0.5</baseHungerRate>
 			<baseHealthScale>0.5</baseHealthScale>
 		</race>
@@ -153,7 +153,7 @@
 		<uiIconPath>Things/Pawn/Humanlike/UI/IconHuman</uiIconPath>
 		<statBases>
 			<MarketValue>10</MarketValue>
-			<MoveSpeed>0.95</MoveSpeed>
+			<MoveSpeed>5.95</MoveSpeed>
 			<Flammability>1.0</Flammability>
 			<ComfyTemperatureMin>-30</ComfyTemperatureMin>
 			<ComfyTemperatureMax>45</ComfyTemperatureMax>
