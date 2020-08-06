@@ -16,10 +16,6 @@
     <li>diannetea.facialstuffdefaults</li>
     <li>killface.alienfaces</li>
     <li>brrainz.cameraplus</li>
-    <li>skyarkhangel.skynet</li>
-    <li>skyarkhangel.skynetfaces</li>
-    <li>chjees.androids</li>
-    <li>skyarkhangel.androidfaces</li>
     <li>dubwise.rimefeller</li>
     <li>neceros.deepscannersettings</li>
     <li>fluffy.worktab</li>
@@ -29,7 +25,6 @@
     <li>weilbyte.snapout</li>
     <li>skyarkhangel.simplesidearms</li>
     <li>syrchalis.setupcamp</li>
-    <li>notfood.seedsplease</li>
     <li>savestoragesettings.kv.rw</li>
     <li>maxzicode.zitools</li>
     <li>ratys.rtsolarflareshield</li>
@@ -72,13 +67,10 @@
     <li>oblitus.animalslogic</li>
     <li>unlimitedhugs.allowtool</li>
     <li>skyarkhangel.survivaltoolslite</li>
-    <li>skyarkhangel.degradation</li>
-    <li>solaris.ratkinracemod</li>
-    <li>solaris.ratkinracemod.fs.hsk</li>
-    <li>skyarkhangel.asarirace</li>
-    <li>kikohi.cybernetic</li>
-    <li>avilmask.nonunopinata</li>
-    <li>skyarkhangel.realisticdarkness</li>
+	<li>skyarkhangel.degradation</li>
+	<li>kikohi.cybernetic</li>
+	<li>avilmask.nonunopinata</li>
+	<li>skyarkhangel.realisticdarkness</li>
     <li>moretraitslots.kv.rw</li>
     <li>mehni.numbers</li>
     <li>saucypigeon.pawnbadge</li>
