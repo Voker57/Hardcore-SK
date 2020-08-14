@@ -99,49 +99,5 @@
 		</comps>
 	</ThingDef>
 
-	<ThingDef ParentName="MealBeverage">
-		<defName>MedicalDrink</defName>
-		<label>Antibiotics</label>
-		<description>A concentrated extract of Healroot and some hops. Tastes awful but boosts the immune system.</description>
-		<thingClass>ThingWithComps</thingClass>
-		<graphicData>
-			<texPath>Things/Item/Drug/MedicalDrink</texPath>
-			<graphicClass>Graphic_Single</graphicClass>
-		</graphicData>
-		<rotatable>false</rotatable>
-		<stackLimit>25</stackLimit>
-		<statBases>
-			<MaxHitPoints>100</MaxHitPoints>
-			<DeteriorationRate>5</DeteriorationRate>
-			<MarketValue>15</MarketValue>
-			<Nutrition>0.01</Nutrition>
-			<Bulk>0.5</Bulk>
-			<Mass>0.2</Mass>
-		</statBases>
-		<thingCategories>
-			<li>Drugs</li>
-		</thingCategories>
-		<tickerType>Rare</tickerType>
-		<ingestible>
-			<foodType>Fluid, Processed</foodType>
-			<maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
-			<drugCategory>Medical</drugCategory>
-			<preferability>NeverForNutrition</preferability>
-			<ingestSound>Ingest_Drink</ingestSound>
-			<outcomeDoers>
-				<li Class="IngestionOutcomeDoer_GiveHediff">
-					<hediffDef>MedicalDrink</hediffDef>
-					<severity>0.25</severity>
-				</li>
-			</outcomeDoers>
-		</ingestible>
-		<comps>
-			<li Class="CompProperties_Drug">
-				<addictiveness>0</addictiveness>
-				<listOrder>1000</listOrder>
-				<overdoseSeverityOffset>0.08~0.14</overdoseSeverityOffset>
-			</li>
-		</comps>
-	</ThingDef>
 
 </Defs>
