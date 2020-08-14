@@ -251,7 +251,7 @@
 			</specialFiltersToAllow>
 		</defaultIngredientFilter>
 		<products>
-			<Biomatter>30</Biomatter>
+			<Biomatter>10</Biomatter>
 		</products>
 		<skillRequirements>
 			<Medicine>6</Medicine>
@@ -289,7 +289,7 @@
 			</disallowedCategories>
 		</fixedIngredientFilter>
 		<products>
-			<Biomatter>10</Biomatter>
+			<Biomatter>5</Biomatter>
 		</products>
 		<skillRequirements>
 			<Medicine>6</Medicine>
