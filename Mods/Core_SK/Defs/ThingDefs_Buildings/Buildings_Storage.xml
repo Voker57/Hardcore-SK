@@ -234,7 +234,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties" >
-				<maxNumberStacks>6</maxNumberStacks>
+				<maxNumberStacks>16</maxNumberStacks>
 				<minTimeStoringTakes>25</minTimeStoringTakes>
 				<additionalTimeEachStack>22</additionalTimeEachStack>
 				<additionalTimeEachDef>20</additionalTimeEachDef>
@@ -303,7 +303,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties" >
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>16</maxNumberStacks>
 				<minTimeStoringTakes>15</minTimeStoringTakes>
 				<!--Got to climb in, get it positioned right, etc-->
 				<additionalTimeStackSize>10</additionalTimeStackSize>
@@ -622,7 +622,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>6</maxNumberStacks>
+				<maxNumberStacks>10</maxNumberStacks>
 				<minTimeStoringTakes>40</minTimeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1225,7 +1225,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>10</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<minNumberStacks>5</minNumberStacks>
 				<minTimeStoringTakes>35</minTimeStoringTakes>
 				<additionalTimeEachStack>10</additionalTimeEachStack>
@@ -1295,7 +1295,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>10</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<timeStoringTakes>20</timeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1366,7 +1366,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties" >
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<timeStoringTakes>50</timeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1431,7 +1431,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<minTimeStoringTakes>35</minTimeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1496,7 +1496,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<minTimeStoringTakes>40</minTimeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1559,7 +1559,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<minTimeStoringTakes>55</minTimeStoringTakes>
 				<additionalTimeEachStack>15</additionalTimeEachStack>
 				<showContents>false</showContents>
@@ -1639,7 +1639,7 @@ This template demonstrates that whitespace is obeyed in the description.\n\nSo a
 		</building>
 		<comps>
 			<li Class="LWM.DeepStorage.Properties">
-				<maxNumberStacks>8</maxNumberStacks>
+				<maxNumberStacks>20</maxNumberStacks>
 				<minTimeStoringTakes>50</minTimeStoringTakes>
 				<additionalTimeEachStack>25</additionalTimeEachStack>
 				<showContents>false</showContents>
