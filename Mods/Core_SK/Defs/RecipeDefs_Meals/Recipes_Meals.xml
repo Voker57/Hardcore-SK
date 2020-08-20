@@ -575,7 +575,6 @@
 					<categories>
 						<li>BasicPlantFoodRaw</li>
 						<li>FruitFoodRaw</li>
-						<li>ExtraPlantFoodRaw</li>
 					</categories>
 					<thingDefs>
 						<li>RawGiantLeaf</li>
@@ -599,7 +598,6 @@
 				<li>EggsFertilized</li>
 				<li>BasicPlantFoodRaw</li>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<specialFiltersToDisallow>
 				<li>AllowPlantFood</li>
@@ -616,7 +614,6 @@
 				<li>EggsUnfertilized</li>
 				<li>BasicPlantFoodRaw</li>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<disallowedThingDefs>
 				<li>Meat_Megaspider</li>
@@ -668,7 +665,6 @@
 					<categories>
 						<li>BasicPlantFoodRaw</li>
 						<li>FruitFoodRaw</li>
-						<li>ExtraPlantFoodRaw</li>
 					</categories>
 				</filter>
 				<count>1.8</count>
@@ -689,7 +685,6 @@
 				<li>EggsFertilized</li>
 				<li>BasicPlantFoodRaw</li>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<specialFiltersToDisallow>
 				<li>AllowPlantFood</li>
@@ -706,7 +701,6 @@
 				<li>EggsUnfertilized</li>
 				<li>BasicPlantFoodRaw</li>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<disallowedThingDefs>
 				<li>Meat_Megaspider</li>
