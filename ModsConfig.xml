@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
   <version>1.2.2723 rev661</version>
   <activeMods>
@@ -89,7 +89,6 @@
     <li>madeline.modmismatchformatter</li>
     <li>fluffy.fluffybreakdowns</li>
     <li>zacharyfoster.minerals</li>
-    <li>zacharyfoster.mineralsfrozen</li>
     <li>automatic.incidenttweaker</li>
     <li>erdelf.moddercredit</li>
     <li>dame.activecircuits</li>
