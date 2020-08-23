@@ -1257,7 +1257,7 @@
     <label>make pemmican x4</label>
     <description>Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration.</description>
     <jobString>Making bulk pemmican.</jobString>
-    <workAmount>2800</workAmount>
+    <workAmount>2500</workAmount>
     <workSpeedStat>CookSpeed</workSpeedStat>
     <requiredGiverWorkType>Cooking</requiredGiverWorkType>
     <effectWorking>Cook</effectWorking>
@@ -1283,7 +1283,7 @@
       </li>
     </ingredients>
     <products>
-      <Pemmican>64</Pemmican>
+      <Pemmican>80</Pemmican>
     </products>
     <fixedIngredientFilter>
       <categories>
