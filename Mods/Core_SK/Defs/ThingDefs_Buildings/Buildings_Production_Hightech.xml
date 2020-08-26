@@ -54,11 +54,6 @@
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
 				<idlePowerFactor>0.1</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>10</heatPerSecond>
-				<heatPushMaxTemperature>35</heatPushMaxTemperature>
-			</li>
 			<li Class="CompProperties_AffectedByFacilities">
 				<linkableFacilities>
 					<li>CookingTools</li>
@@ -134,11 +129,6 @@
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
 				<idlePowerFactor>0.1</idlePowerFactor>
-			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>12</heatPerSecond>
-				<heatPushMaxTemperature>35</heatPushMaxTemperature>
 			</li>
 			<li Class="CompProperties_AffectedByFacilities">
 				<linkableFacilities>
@@ -223,12 +213,7 @@
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
 				<idlePowerFactor>0.1</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>10</heatPerSecond>
-				<heatPushMaxTemperature>35</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li Class="CompProperties_AffectedByFacilities">
 				<linkableFacilities>
@@ -308,14 +293,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>10</heatPerSecond>
-				<heatPushMaxTemperature>35</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li>
 				<compClass>CompReportWorkSpeed</compClass>
@@ -398,12 +378,7 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
-			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>12</heatPerSecond>
-				<heatPushMaxTemperature>35</heatPushMaxTemperature>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
@@ -493,14 +468,9 @@
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>35</heatPerSecond>
-				<heatPushMaxTemperature>75</heatPushMaxTemperature>
-			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
 			<li Class="CompProperties_AffectedByFacilities">
 				<linkableFacilities>
@@ -589,7 +559,7 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
@@ -841,14 +811,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>22</heatPerSecond>
-				<heatPushMaxTemperature>55</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li>
 				<compClass>CompReportWorkSpeed</compClass>
@@ -1012,14 +977,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>22</heatPerSecond>
-				<heatPushMaxTemperature>65</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li>
 				<compClass>CompReportWorkSpeed</compClass>
@@ -1120,14 +1080,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>35</heatPerSecond>
-				<heatPushMaxTemperature>55</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li>
 				<compClass>CompReportWorkSpeed</compClass>
@@ -1333,12 +1288,7 @@
 				<compClass>CompPowerTrader</compClass>
 				<basePowerConsumption>800</basePowerConsumption>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>20</heatPerSecond>
-				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Glower">
+		<li Class="CompProperties_Glower">
 				<glowRadius>4</glowRadius>
 				<glowColor>(255,0,0,0)</glowColor>
 			</li>
@@ -1415,12 +1365,7 @@
 				<glowRadius>5</glowRadius>
 				<glowColor>(255,0,0,0)</glowColor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>30</heatPerSecond>
-				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_CreatesInfestations" />
+		<li Class="CompProperties_CreatesInfestations" />
 			<li Class="CompProperties_Flickable"/>
 		</comps>
 		<size>(5,5)</size>
@@ -2008,12 +1953,7 @@
 				<glowRadius>6</glowRadius>
 				<glowColor>(217,112,33,0)</glowColor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>28</heatPerSecond>
-				<heatPushMaxTemperature>1000</heatPushMaxTemperature>
-			</li>
-			<li Class="SK.CompProperties_LowIdleDraw">
+		<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
 				<idlePowerFactor>0.1</idlePowerFactor>
 			</li>
@@ -2176,14 +2116,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>12</heatPerSecond>
-				<heatPushMaxTemperature>45</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li>
 				<compClass>CompReportWorkSpeed</compClass>
@@ -2785,14 +2720,9 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.0</idlePowerFactor>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>85</heatPerSecond>
-				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Flickable"/>
+		<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 		</comps>
 		<building>
@@ -2858,12 +2788,7 @@
 				<basePowerConsumption>-1</basePowerConsumption>
 				<transmitsPower>true</transmitsPower>
 			</li>
-			<li Class="CompProperties_HeatPusher">
-				<compClass>CompHeatPusherPowered</compClass>
-				<heatPerSecond>90</heatPerSecond>
-				<heatPushMaxTemperature>1500</heatPushMaxTemperature>
-			</li>
-			<li Class="CompProperties_Breakdownable"/>
+		<li Class="CompProperties_Breakdownable"/>
 		</comps>
 		<building>
 			<soundAmbient>MatterFab</soundAmbient>
