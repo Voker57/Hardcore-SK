@@ -325,7 +325,6 @@
 				<filter>
 					<categories>
 						<li>FruitFoodRaw</li>
-						<li>ExtraPlantFoodRaw</li>
 					</categories>
 					<thingDefs>
 						<li>RawGiantLeaf</li>
@@ -340,7 +339,6 @@
 		<fixedIngredientFilter>
 			<categories>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<thingDefs>
 				<li>RawGiantLeaf</li>
@@ -389,7 +387,6 @@
 				<filter>
 					<categories>
 						<li>FruitFoodRaw</li>
-						<li>ExtraPlantFoodRaw</li>
 					</categories>
 					<thingDefs>
 						<li>RawGiantLeaf</li>
@@ -404,7 +401,6 @@
 		<fixedIngredientFilter>
 			<categories>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<thingDefs>
 				<li>RawGiantLeaf</li>
@@ -416,7 +412,6 @@
 		<defaultIngredientFilter>
 			<categories>
 				<li>FruitFoodRaw</li>
-				<li>ExtraPlantFoodRaw</li>
 			</categories>
 			<thingDefs>
 				<li>RawGiantLeaf</li>
