@@ -89,10 +89,7 @@
 			<li>ElectricStove</li>
 			<li>FueledStove</li>
 		</recipeUsers>
-		<skillRequirements>
-			<Crafting>5</Crafting>
-		</skillRequirements>
-		<workSkill>Crafting</workSkill>
+		<workSkill>Cooking</workSkill>
 	</RecipeDef>
 
 	<!-- mai items -->
