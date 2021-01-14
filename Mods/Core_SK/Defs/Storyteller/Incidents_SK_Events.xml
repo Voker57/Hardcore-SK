@@ -415,7 +415,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		<gameCondition>Epidemic</gameCondition>
 		<letterText/>
 		<letterDef>PurpleEvent</letterDef>
-		<baseChance>1.1</baseChance>
+		<baseChance>0.0</baseChance>
 		<earliestDay>30</earliestDay>
 		<minRefireDays>40</minRefireDays>
 		<minThreatPoints>1500</minThreatPoints>
@@ -444,7 +444,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		<gameCondition>Epidemic</gameCondition>
 		<letterLabel>Epidemic: Plague</letterLabel>
 		<letterDef>PurpleEvent</letterDef>
-		<baseChance>0.9</baseChance>
+		<baseChance>0.0</baseChance>
 		<earliestDay>40</earliestDay>
 		<minRefireDays>50</minRefireDays>
 		<minThreatPoints>1700</minThreatPoints>
@@ -541,7 +541,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 			<li>Map_PlayerHome</li>
 		</targetTags>
 		<workerClass>SK.IncidentWorker_DevourersOfCrops</workerClass>
-		<baseChance>0.8</baseChance>
+		<baseChance>0.0</baseChance>
 		<category>ThreatSmall</category>
 		<minRefireDays>16</minRefireDays>
 		<earliestDay>14</earliestDay>
@@ -561,7 +561,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 			<li>Map_PlayerHome</li>
 		</targetTags>
 		<workerClass>SK.Events.IncidentWorker_Swarm</workerClass>
-		<baseChance>2.0</baseChance>
+		<baseChance>0.0</baseChance>
 		<category>ThreatBig</category>
 		<minRefireDays>18</minRefireDays>
 		<minThreatPoints>2500</minThreatPoints>
@@ -704,7 +704,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		<category>Misc</category>
 		<workerClass>SK.Events.IncidentWorker_Locusts</workerClass>
 		<minRefireDays>10</minRefireDays>
-		<baseChance>3</baseChance>
+		<baseChance>0.0</baseChance>
 		<earliestDay>5</earliestDay>
 		<modExtensions>
 			<li Class="SK.ExtendedIncident">
