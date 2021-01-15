@@ -609,7 +609,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		</targetTags>
 		<category>Misc</category>
 		<workerClass>SK.IncidentWorker_FeenixPasses</workerClass>
-		<baseChance>1.5</baseChance>
+		<baseChance>0.0</baseChance>
 		<earliestDay>30</earliestDay>
 		<minRefireDays>27</minRefireDays>
 	</IncidentDef>
@@ -626,7 +626,7 @@ Drought is devastating for plant life and will quickly destroy all the crops not
 		<letterLabel>Cold Snap</letterLabel>
 		<letterText>An unusual cold snap has set in. Watch out for hypothermia and dying crops.</letterText>
 		<letterDef>ThreatSmall</letterDef>
-		<baseChance>1.5</baseChance>
+		<baseChance>0.0</baseChance>
 		<earliestDay>30</earliestDay>
 		<minRefireDays>27</minRefireDays>
 		<durationDays>
