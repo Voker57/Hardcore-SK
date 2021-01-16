@@ -51,6 +51,11 @@
 				<basePowerConsumption>400</basePowerConsumption>
 				<shortCircuitInRain>true</shortCircuitInRain>
 			</li>
+			<li Class="SK.CompProperties_LowIdleDraw">
+                                <compClass>SK.CompPowerLowIdleDraw</compClass>
+                                <idlePowerFactor>0.01</idlePowerFactor>
+                        </li>
+
 			<li Class="CompProperties_Breakdownable"/>
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_AffectedByFacilities">
@@ -138,6 +143,11 @@
 				<shortCircuitInRain>true</shortCircuitInRain>
 				<basePowerConsumption>500</basePowerConsumption>
 			</li>
+			<li Class="SK.CompProperties_LowIdleDraw">
+                                <compClass>SK.CompPowerLowIdleDraw</compClass>
+                                <idlePowerFactor>0.01</idlePowerFactor>
+                        </li>
+
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Glower">
 				<glowRadius>5</glowRadius>
@@ -273,6 +283,11 @@
 				<basePowerConsumption>1500</basePowerConsumption>
 				<shortCircuitInRain>true</shortCircuitInRain>
 			</li>
+			<li Class="SK.CompProperties_LowIdleDraw">
+                                <compClass>SK.CompPowerLowIdleDraw</compClass>
+                                <idlePowerFactor>0.01</idlePowerFactor>
+                        </li>
+
 			<li Class="CompProperties_Flickable"/>
 			<li Class="CompProperties_Breakdownable"/>
 			<li Class="CompProperties_Facility">
@@ -361,6 +376,11 @@
 				<basePowerConsumption>3000</basePowerConsumption>
 				<shortCircuitInRain>true</shortCircuitInRain>
 			</li>
+			<li Class="SK.CompProperties_LowIdleDraw">
+                                <compClass>SK.CompPowerLowIdleDraw</compClass>
+                                <idlePowerFactor>0.01</idlePowerFactor>
+                        </li>
+
 			<li Class="CompProperties_Facility">
 				<compClass>Rimatomics.CompResearchFacility</compClass>
 				<statOffsets>

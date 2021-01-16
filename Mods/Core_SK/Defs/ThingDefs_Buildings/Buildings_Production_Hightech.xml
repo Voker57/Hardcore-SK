@@ -2637,7 +2637,7 @@
 			</li>
 			<li Class="SK.CompProperties_LowIdleDraw">
 				<compClass>SK.CompPowerLowIdleDraw</compClass>
-				<idlePowerFactor>0.1</idlePowerFactor>
+				<idlePowerFactor>0.01</idlePowerFactor>
 			</li>
 			<li Class="CompProperties_Glower">
 				<glowRadius>2</glowRadius>
