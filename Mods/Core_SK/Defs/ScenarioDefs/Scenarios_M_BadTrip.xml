@@ -62,27 +62,6 @@
 				<!-- Player starting eat -->
 				<li Class="ScenPart_StartingThing_Defined">
 					<def>StartingThing_Defined</def>
-					<thingDef>CheeseBurger</thingDef>
-					<count>25</count>
-				</li>
-				<li Class="ScenPart_StartingThing_Defined">
-					<def>StartingThing_Defined</def>
-					<thingDef>SweetBun</thingDef>
-					<count>25</count>
-				</li>
-				<li Class="ScenPart_StartingThing_Defined">
-					<def>StartingThing_Defined</def>
-					<thingDef>Pizza</thingDef>
-					<count>25</count>
-				</li>
-				<li Class="ScenPart_StartingThing_Defined">
-					<def>StartingThing_Defined</def>
-					<thingDef>Pelmeni</thingDef>
-					<count>25</count>
-				</li>
-
-				<li Class="ScenPart_StartingThing_Defined">
-					<def>StartingThing_Defined</def>
 					<thingDef>MedicineIndustrial</thingDef>
 					<count>16</count>
 				</li>
