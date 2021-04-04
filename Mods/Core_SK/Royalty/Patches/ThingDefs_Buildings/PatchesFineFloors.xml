@@ -49,6 +49,7 @@
 				<xpath>Defs/TerrainDef[defName = "GoldSolid"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
@@ -57,6 +58,7 @@
 				<xpath>Defs/TerrainDef[defName = "BambooFloorE"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
@@ -65,6 +67,7 @@
 				<xpath>Defs/TerrainDef[defName = "BambooFloorF"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
@@ -73,6 +76,7 @@
 				<xpath>Defs/TerrainDef[defName = "RedWoodFloorD"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
@@ -81,6 +85,7 @@
 				<xpath>Defs/TerrainDef[defName = "RedWoodFloorE"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
@@ -89,6 +94,7 @@
 				<xpath>Defs/TerrainDef[defName = "TikiFloorFancy"]</xpath>
 				<value>
 					<tags>
+						<li>Floor</li>
 						<li>FineFloor</li>
 					</tags>
 				</value>
