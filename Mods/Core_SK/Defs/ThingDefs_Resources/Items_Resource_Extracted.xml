@@ -85,7 +85,7 @@
 		<soundInteract>Metal_Drop</soundInteract>
 		<soundDrop>Metal_Drop</soundDrop>
 		<statBases>
-			<MarketValue>150</MarketValue>
+			<MarketValue>15</MarketValue>
 			<SellPriceFactor>0.50</SellPriceFactor>
 			<Mass>0.2</Mass>
 			<Bulk>0.2</Bulk>
